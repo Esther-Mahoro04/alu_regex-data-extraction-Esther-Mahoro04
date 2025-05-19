@@ -1,0 +1,34 @@
+Hello team,
+
+Here's the contact information for our new clients:
+
+Client 1: Mugisha Jean  
+Email: mugisha.jean@example.com  
+Phone: (555) 123-4567  
+Payment method: Credit card 4356 7890 1234 5678  
+
+Client 2: Uwase Marie  
+Email: uwase_marie84@business-corp.co.uk  
+Phone: +1-555-987-6543  
+Invoice amount: $1,250.00  
+
+Client 3: Nkusi Claude  
+Email: nkusi.claude@tech-company.org  
+Phone: 555.765.4321  
+Payment method: Credit card 5678-9012-3456-7890  
+Outstanding balance: £750.45  
+
+Additional contacts:  
+sales@ourcompany.com  
+support@ourcompany.com  
+Phone: 1-800-555-0199  
+
+Financial summary:  
+Monthly revenue: $45,500.00  
+Expenses: €12,345.67  
+Profit: $33,154.33  
+
+Please remember that all customer information is confidential.  
+
+Regards,  
+Account Management Team
